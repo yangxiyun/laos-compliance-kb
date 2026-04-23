@@ -6,7 +6,15 @@
       "Bash(pdftotext -enc UTF-8 \"待摄入/singapore-laos-dta-\\(ratified\\)-\\(11-nov-2016\\) zh-Hans \\(1\\).pdf\" -)",
       "Bash(git add *)",
       "Bash(git commit *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/4.Law-on-Enterprise-amended.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/土地税法部分内容-2024年.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/【赛色塔综合开发区】常用问题解答2024.3.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/中国-印度尼西亚避免双重征税协定.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/中国-新加坡避免双重征税协定.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/中国-泰国避免双重征税协定.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/中国-越南避免双重征税协定.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/境外投资利润所得税申报.pdf\" -)"
     ]
   }
 }
