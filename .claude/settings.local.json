@@ -1,16 +1,10 @@
 {
   "permissions": {
     "allow": [
+      "Bash(gh pr *)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/2.中老税收协定.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/singapore-laos-dta-\\(ratified\\)-\\(11-nov-2016\\) zh-Hans \\(1\\).pdf\" -)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)",
-      "Bash(python -c ' *)",
-      "Read(//tmp/**)",
-      "Bash(python -c \"import PyPDF2; print\\(PyPDF2.__version__\\)\")",
-      "Bash(python -c \"import pdfplumber; print\\(pdfplumber.__version__\\)\")",
-      "Bash(python -c \"import fitz; print\\(fitz.__version__\\)\")",
-      "Bash(pdftotext -enc UTF-8 \"D:/laos-wiki/待摄入/老挝《投资促进法》（中文）（2024年）.pdf\" /tmp/invest_law.txt)",
-      "Bash(pdftotext -enc UTF-8 \"D:/laos-wiki/待摄入/增值税法_修订版可编辑.pdf\" /tmp/vat.txt)",
-      "Bash(mv 待摄入/*.pdf 处理完成/)",
       "Bash(git commit *)",
       "Bash(git push *)"
     ]
