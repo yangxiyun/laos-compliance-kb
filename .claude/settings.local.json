@@ -21,7 +21,11 @@
       "Bash(pdfinfo \"待摄入/10277.pdf\")",
       "Bash(pdfinfo \"待摄入/跨境服务的税收处理.pdf\")",
       "Bash(pdftotext -enc UTF-8 -layout \"待摄入/跨境服务的税收处理.pdf\" -)",
-      "Bash(pdftotext -enc UTF-8 -raw \"待摄入/跨境服务的税收处理.pdf\" -)"
+      "Bash(pdftotext -enc UTF-8 -raw \"待摄入/跨境服务的税收处理.pdf\" -)",
+      "WebSearch",
+      "WebFetch(domain:www.vdb-loi.com)",
+      "WebFetch(domain:directoryofngos.org)",
+      "WebFetch(domain:www.tilleke.com)"
     ]
   }
 }
