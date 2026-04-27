@@ -14,7 +14,14 @@
       "Bash(pdftotext -enc UTF-8 \"待摄入/中国-新加坡避免双重征税协定.pdf\" -)",
       "Bash(pdftotext -enc UTF-8 \"待摄入/中国-泰国避免双重征税协定.pdf\" -)",
       "Bash(pdftotext -enc UTF-8 \"待摄入/中国-越南避免双重征税协定.pdf\" -)",
-      "Bash(pdftotext -enc UTF-8 \"待摄入/境外投资利润所得税申报.pdf\" -)"
+      "Bash(pdftotext -enc UTF-8 \"待摄入/境外投资利润所得税申报.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/10277.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/中国企业境外交税的备案义务.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 \"待摄入/跨境服务的税收处理.pdf\" -)",
+      "Bash(pdfinfo \"待摄入/10277.pdf\")",
+      "Bash(pdfinfo \"待摄入/跨境服务的税收处理.pdf\")",
+      "Bash(pdftotext -enc UTF-8 -layout \"待摄入/跨境服务的税收处理.pdf\" -)",
+      "Bash(pdftotext -enc UTF-8 -raw \"待摄入/跨境服务的税收处理.pdf\" -)"
     ]
   }
 }
